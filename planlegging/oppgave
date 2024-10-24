@@ -1,0 +1,8 @@
+Sykkelutleie
+Kunden ønsker en applikasjon som skal kunne liste opp 
+syklene den har så andre kan leie dem. Det skal også 
+være mulig å legge til nye sykler etterhvert.
+
+1) Lag en modell som kan fungere til teksten ovenfor
+2) Lag viewfunksjon for å vise frem alle syklene våre
+3) Lag en controllerfunksjon og et view til for å kunne legge til nye sykler
